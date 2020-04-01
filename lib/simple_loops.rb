@@ -7,7 +7,7 @@
 #  end
 # end
 
-def loop_message_five_times("Hello World")
+def loop_message_five_times(Hello World)
   count = 0
   while count < 5 do
     puts "Hello World"
